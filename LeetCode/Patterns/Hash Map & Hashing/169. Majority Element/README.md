@@ -1,6 +1,6 @@
 # 📝 169. Majority Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/majority-element)
+🔗 [Problem Link](https://leetcode.com/problems/majority-element/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -22,14 +22,16 @@ The majority element is the element that appears more than  `⌊n / 2⌋`  times
 OriginalC++ **Example 1:**
 
 ```
-Input:vector<int> nums = {3, 2, 3};Output: 3
+Input: nums = [3,2,3]
+Output: 3
 
 ```
 
 **Example 2:**
 
 ```
-Input:vector<int> nums = {2, 2, 1, 1, 1, 2, 2};Output: 2
+Input: nums = [2,2,1,1,1,2,2]
+Output: 2
 
 ```
 
