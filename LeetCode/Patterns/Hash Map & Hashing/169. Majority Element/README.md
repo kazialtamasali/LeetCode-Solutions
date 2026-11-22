@@ -1,6 +1,6 @@
 # 📝 169. Majority Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/majority-element/)
+🔗 [Problem Link](https://leetcode.com/problems/majority-element)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -19,7 +19,7 @@ Given an array  `nums`  of size  `n` , return  *the majority element* .
 
 The majority element is the element that appears more than  `⌊n / 2⌋`  times. You may assume that the majority element always exists in the array.
 
-**Example 1:**
+OriginalC++ **Example 1:**
 
 ```
 Input: nums = [3,2,3]
