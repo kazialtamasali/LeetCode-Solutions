@@ -8,8 +8,8 @@
 Array, Two Pointers, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 128.1 MB
 
 ---
 
